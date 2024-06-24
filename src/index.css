@@ -2,13 +2,15 @@ body {
   font-family: Arial, sans-serif;
 
   background-color: #f0f0f0;
+  url: (
+    "https://tse4.mm.bing.net/th?id=OIP.JmJdLkY7va8MisPP0t5--wHaEq&pid=Api&P=0&h=220"
+  );
 }
 
 .container {
   text-align: center;
   padding: 20px;
-  border: 2px solid #e20f0f;
-  border-radius: 10px;
+
   background-color: #fff;
 }
 
