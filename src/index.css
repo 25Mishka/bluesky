@@ -2,16 +2,16 @@ body {
   font-family: Arial, sans-serif;
 
   background-color: #f0f0f0;
-  url: (
-    "https://tse4.mm.bing.net/th?id=OIP.JmJdLkY7va8MisPP0t5--wHaEq&pid=Api&P=0&h=220"
-  );
+  background-image: url("https://images.pexels.com/photos/159020/sunset-sky-afterglow-evening-sky-159020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-hight: 800px;
 }
 
 .container {
   text-align: center;
   padding: 20px;
-
-  background-color: #fff;
 }
 
 .weath-info {
