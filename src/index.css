@@ -74,6 +74,25 @@ main {
   color: rgb(82, 10, 82);
 }
 
+.degree-container {
+  display: flex;
+}
+
+.degree-icon {
+  margin-right: 10px;
+}
+
+.degree-nr {
+  font-size: 200px;
+  margin-left: 20px;
+  font-weight: bolder;
+  color: pink;
+}
+
+.degree {
+  font-size: 200px;
+}
+
 footer {
   border-top: 1px solid purple;
   padding: 30px 0 0 0;
