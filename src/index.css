@@ -6,7 +6,6 @@ body {
 
   background-size: cover;
   background-repeat: no-repeat;
-  background-hight: 800px;
 }
 
 .container {
@@ -54,16 +53,25 @@ body {
 
 main {
   padding: 40px 0;
-  background-color: white;
 }
 
 .city-container {
 }
 
 .city-container-name {
+  color: yellow;
 }
 
-.weath-info {
+.weather-info {
+  color: whitesmoke;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: right;
+  font-weight: 500px;
+}
+
+.weather-info strong {
+  color: rgb(82, 10, 82);
 }
 
 footer {
