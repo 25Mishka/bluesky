@@ -14,12 +14,6 @@ body {
   padding: 20px;
 }
 
-.weath-info {
-}
-
-.cityname {
-}
-
 .search-bar {
 }
 
@@ -44,6 +38,7 @@ body {
   display: inline-block;
   font-size: 16px;
   margin-top: 30px;
+  margin-bottom: 30px;
   transition-duration: 0.4s;
   cursor: pointer;
 
@@ -55,6 +50,20 @@ body {
 .search-bar-button:hover {
   background-color: rgb(207, 47, 207);
   color: white;
+}
+
+main {
+  padding: 40px 0;
+  background-color: white;
+}
+
+.city-container {
+}
+
+.city-container-name {
+}
+
+.weath-info {
 }
 
 footer {
