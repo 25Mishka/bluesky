@@ -93,15 +93,18 @@ main {
   font-weight: bolder;
   color: rgb(241, 236, 237);
   flex-direction: row;
+
+  display: inline-block;
 }
 
 .degree {
   font-size: 30px;
-  margin-left: 40px;
-  position: relative;
+  margin-left: 5px;
+  position: ;
   color: rgb(241, 236, 237);
   top: -38px;
   flex-direction: row;
+  display: inline-block;
 }
 
 footer {
