@@ -92,6 +92,7 @@ main {
   margin-left: 10px;
   font-weight: bolder;
   color: rgb(241, 236, 237);
+  flex-direction: row;
 }
 
 .degree {
@@ -100,6 +101,7 @@ main {
   position: relative;
   color: rgb(241, 236, 237);
   top: -38px;
+  flex-direction: row;
 }
 
 footer {
