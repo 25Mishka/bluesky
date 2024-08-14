@@ -103,9 +103,8 @@ main {
 
   color: rgb(241, 236, 237);
   top: -38px;
-  left: auto;
+  left: -;
   flex-direction: row;
-  display: inline-block;
 }
 
 footer {
