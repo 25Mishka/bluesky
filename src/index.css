@@ -80,7 +80,7 @@ main {
   align-items: center;
 }
 .degree-icon {
-  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .degree-nr {
@@ -96,7 +96,6 @@ main {
   font-size: 30px;
   margin-left: 5px;
   display: inline-block;
-  vertical-align: middle;
 }
 
 footer {
