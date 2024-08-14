@@ -97,8 +97,9 @@ main {
 .degree {
   font-size: 30px;
   margin-left: 5px;
-  display: inline-block;
+  position: relative;
   color: rgb(241, 236, 237);
+  top: -38px;
 }
 
 footer {
