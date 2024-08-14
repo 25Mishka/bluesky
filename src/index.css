@@ -100,9 +100,10 @@ main {
 .degree {
   font-size: 30px;
   margin-left: 5px;
-  position: ;
+
   color: rgb(241, 236, 237);
   top: -38px;
+  left: auto;
   flex-direction: row;
   display: inline-block;
 }
